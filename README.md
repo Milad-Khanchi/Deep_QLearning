@@ -10,4 +10,7 @@ Target Network: Stabilizes training by decoupling the target from the local netw
 
 Epsilon-Greedy Policy: Balances exploration and exploitation during training.
 
+# Acknowledgment
+This repository is inspired by the Artificial Intelligence A-Z course by the SuperDataScience Team, taught by Hadelin de Ponteves, Kirill Eremenko, Luka Anicin, and others.
+
 
